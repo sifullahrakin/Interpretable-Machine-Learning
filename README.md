@@ -1,1 +1,2 @@
 # Interpretable-Machine-Learning
+Interpretable machine learning refers to the ability of humans to extract meaningful insights from a model regarding the relationships present in data or acquired by the model itself. Traditionally, machine learning algorithms have functioned as opaque 'black boxes,' lacking transparency into their internal mechanisms. This opacity has posed challenges in explaining the generated insights to regulatory bodies and other stakeholders.
